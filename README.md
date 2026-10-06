@@ -15,11 +15,3 @@ My first project using **Git** and **GitHub**, created in the *Introduction to P
 
 ```bash
 python hello.py
-```
-## Project files
-| File | Description |
-|------|-------------|
-| `hello.py` | The main program |
-| `README.md` | This page |
-## Progress- [x] Create my first repository- [x] Push to GitHub- [ ] Master branching and merging--
-> Made by Mohamed Ahmed Hussein
