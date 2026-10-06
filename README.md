@@ -1,17 +1,35 @@
 # Hello Git
 
-My first project using **Git** and **GitHub**.
+My first project using **Git** and **GitHub**, created in the *Introduction to Programming* module.
 
-## What it does
+## Features
 
 - Prints a greeting message
+- Every version is tracked with Git
 
 ## How to run
 
-`python hello.py`
+1. Clone the repository
+2. Open the folder in VS Code
+3. Run the program:
 
-Author: Mohamed Ahmed Hussein
+```bash
+python hello.py
 
-Add welcome message
+```text
+## Project files
 
-TEST
+| File | Description |
+|------|-------------|
+| `hello.py` | The main program |
+| `README.md` | This page |
+
+## Progress
+
+- [x] Create my first repository
+- [x] Push to GitHub
+- [ ] Master branching and merging
+
+---
+
+> Made by Mohamed Ahmed Hussein
